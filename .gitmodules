@@ -67,3 +67,36 @@
 [submodule "electron-react-boilerplate"]
 	path = electron-react-boilerplate
 	url = https://github.com/chentsulin/electron-react-boilerplate.git
+[submodule "RPi/RaspberryPi.Web"]
+	path = RPi/RaspberryPi.Web
+	url = https://github.com/fabien-chevalley/RaspberryPi.Web.git
+[submodule "RPi/FabScanPi/FabScanPi-Frontend"]
+	path = RPi/FabScanPi/FabScanPi-Frontend
+	url = https://github.com/mariolukas/FabScanPi-Frontend.git
+[submodule "RPi/rf433-to-rest"]
+	path = RPi/rf433-to-rest
+	url = https://github.com/cat101/rf433-to-rest.git
+[submodule "RPi/GreenPiThumb/GreenPiThumb_Frontend"]
+	path = RPi/GreenPiThumb/GreenPiThumb_Frontend
+	url = https://github.com/JeetShetty/GreenPiThumb_Frontend.git
+[submodule "RPi/GreenPiThumb/GreenPiThumb_Frontend_static"]
+	path = RPi/GreenPiThumb/GreenPiThumb_Frontend_static
+	url = https://github.com/JeetShetty/GreenPiThumb_Frontend_static.git
+[submodule "RPi/ProsperBot/prosperbot-frontend"]
+	path = RPi/ProsperBot/prosperbot-frontend
+	url = https://github.com/mtlynch/prosperbot-frontend.git
+[submodule "RPi/ProsperBot/prosperbot-frontend-static"]
+	path = RPi/ProsperBot/prosperbot-frontend-static
+	url = https://github.com/mtlynch/prosperbot-frontend-static.git
+[submodule "RPi/Fortiphi"]
+	path = RPi/Fortiphi
+	url = https://github.com/zachatrocity/Fortiphi.git
+[submodule "RPi/web-gpio-react"]
+	path = RPi/web-gpio-react
+	url = https://github.com/ddewaele/web-gpio-react.git
+[submodule "RPi/EmulationStation"]
+	path = RPi/EmulationStation
+	url = https://github.com/Aloshi/EmulationStation.git
+[submodule "RPi/FabScanPi/FabScanPi-Server"]
+	path = RPi/FabScanPi/FabScanPi-Server
+	url = https://github.com/mariolukas/FabScanPi-Server.git
