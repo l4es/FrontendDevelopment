@@ -1,0 +1,69 @@
+[submodule "kotihome"]
+	path = kotihome
+	url = https://github.com/arturi/kotihome.git
+[submodule "react-imgpro"]
+	path = react-imgpro
+	url = https://github.com/nitin42/react-imgpro.git
+[submodule "electron-react-tutorial"]
+	path = electron-react-tutorial
+	url = https://github.com/Mechasparrow/electron-react-tutorial.git
+[submodule "Libraries/jimp"]
+	path = Libraries/jimp
+	url = https://github.com/oliver-moran/jimp.git
+[submodule "another-electron-react-tutorial"]
+	path = another-electron-react-tutorial
+	url = https://github.com/RaasAhsan/electron-react-tutorial.git
+[submodule "electrotv"]
+	path = electrotv
+	url = https://github.com/hiquest/electrotv.git
+[submodule "RPi/PiR.tv"]
+	path = RPi/PiR.tv
+	url = https://github.com/d0nd3r3k/PiR.tv.git
+[submodule "RPi/home-automation"]
+	path = RPi/home-automation
+	url = https://github.com/deepsyx/home-automation.git
+[submodule "RPi/clockOS"]
+	path = RPi/clockOS
+	url = https://github.com/iGerli/clockOS.git
+[submodule "RPi/Pi_MorseCode"]
+	path = RPi/Pi_MorseCode
+	url = https://github.com/arvindr21/Pi_MorseCode.git
+[submodule "RPi/PiViewer"]
+	path = RPi/PiViewer
+	url = https://github.com/patcat/PiViewer.git
+[submodule "RPi/personal-assistant"]
+	path = RPi/personal-assistant
+	url = https://github.com/augustogoncalves/personal-assistant.git
+[submodule "RPi/it-gets-the-hose-again"]
+	path = RPi/it-gets-the-hose-again
+	url = https://github.com/mrsharpoblunto/it-gets-the-hose-again.git
+[submodule "RPi/RPi-KittyCam"]
+	path = RPi/RPi-KittyCam
+	url = https://github.com/girliemac/RPi-KittyCam.git
+[submodule "RPi/example-raspberry-pi"]
+	path = RPi/example-raspberry-pi
+	url = https://github.com/Losant/example-raspberry-pi.git
+[submodule "RPi/raspberry-pi-nodejs-barcode-reader-"]
+	path = RPi/raspberry-pi-nodejs-barcode-reader-
+	url = https://github.com/dynamsoft-dbr/raspberry-pi-nodejs-barcode-reader-.git
+[submodule "resin-electronjs"]
+	path = resin-electronjs
+	url = https://github.com/resin-io/resin-electronjs.git
+[submodule "ocr-electron-vue"]
+	path = ocr-electron-vue
+	url = https://github.com/lexmartinez/ocr-electron-vue.git
+[submodule "repoStarterKit"]
+	path = repoStarterKit
+	url = https://github.com/pa87901/repoStarterKit.git
+[submodule "react-electron-seed"]
+	path = react-electron-seed
+	url = https://github.com/manojsinghnegiwd/react-electron-seed.git
+[submodule "scotch-player"]
+	path = scotch-player
+	url = https://github.com/christiannwamba/scotch-player.git
+[submodule "react-image-browser"]
+	path = react-image-browser
+	url = https://github.com/manojsinghnegiwd/react-image-browser.git
+[submodule "electron-react-boilerplate"]
+	path = electron-react-boilerplate
+	url = https://github.com/chentsulin/electron-react-boilerplate.git
