@@ -106,3 +106,6 @@
 [submodule "angular2-qrscanner"]
 	path = angular2-qrscanner
 	url = https://github.com/goergch/angular2-qrscanner.git
+[submodule "Pinpoint"]
+	path = Pinpoint
+	url = https://github.com/zachatrocity/Pinpoint.git
