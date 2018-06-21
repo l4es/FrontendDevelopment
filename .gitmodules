@@ -100,3 +100,9 @@
 [submodule "RPi/FabScanPi/FabScanPi-Server"]
 	path = RPi/FabScanPi/FabScanPi-Server
 	url = https://github.com/mariolukas/FabScanPi-Server.git
+[submodule "angular-qr-scanner"]
+	path = angular-qr-scanner
+	url = https://github.com/sembrestels/angular-qr-scanner.git
+[submodule "angular2-qrscanner"]
+	path = angular2-qrscanner
+	url = https://github.com/goergch/angular2-qrscanner.git
