@@ -1,5 +1,5 @@
 [submodule "kotihome"]
-	path = kotihome
+	path = RPi/kotihome
 	url = https://github.com/arturi/kotihome.git
 [submodule "react-imgpro"]
 	path = react-imgpro
