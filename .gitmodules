@@ -109,3 +109,6 @@
 [submodule "Pinpoint"]
 	path = Pinpoint
 	url = https://github.com/zachatrocity/Pinpoint.git
+[submodule "react_basics"]
+	path = react_basics
+	url = https://github.com/ajayk800/react_basics.git
