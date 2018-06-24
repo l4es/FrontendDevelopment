@@ -124,3 +124,9 @@
 [submodule "RPi/Rototron/React-WebSocket-Client-DS18b20"]
 	path = RPi/Rototron/React-WebSocket-Client-DS18b20
 	url = https://github.com/rdagger/React-WebSocket-Client-DS18b20.git
+[submodule "RPi/Raspberry-Pi-Simple-Web-GPIO-GUI"]
+	path = RPi/Raspberry-Pi-Simple-Web-GPIO-GUI
+	url = https://github.com/tutRPi/Raspberry-Pi-Simple-Web-GPIO-GUI.git
+[submodule "RPi/rpi-webapp-express"]
+	path = RPi/rpi-webapp-express
+	url = https://github.com/fatkahawai/rpi-webapp-express.git
