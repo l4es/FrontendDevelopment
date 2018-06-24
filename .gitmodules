@@ -118,3 +118,9 @@
 [submodule "BBB/BeagleBoot"]
 	path = BBB/BeagleBoot
 	url = https://github.com/ravikp7/BeagleBoot.git
+[submodule "RPi/Rototron/Expo-Solar-Tracker"]
+	path = RPi/Rototron/Expo-Solar-Tracker
+	url = https://github.com/rdagger/Expo-Solar-Tracker.git
+[submodule "RPi/Rototron/React-WebSocket-Client-DS18b20"]
+	path = RPi/Rototron/React-WebSocket-Client-DS18b20
+	url = https://github.com/rdagger/React-WebSocket-Client-DS18b20.git
