@@ -130,3 +130,9 @@
 [submodule "RPi/rpi-webapp-express"]
 	path = RPi/rpi-webapp-express
 	url = https://github.com/fatkahawai/rpi-webapp-express.git
+[submodule "projrekt"]
+	path = projrekt
+	url = https://github.com/PeteLevineA/projrekt.git
+[submodule "iot-serverless-websockets-react-boilerplate"]
+	path = iot-serverless-websockets-react-boilerplate
+	url = https://github.com/gettechtalent/iot-serverless-websockets-react-boilerplate.git
