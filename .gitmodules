@@ -136,3 +136,6 @@
 [submodule "iot-serverless-websockets-react-boilerplate"]
 	path = iot-serverless-websockets-react-boilerplate
 	url = https://github.com/gettechtalent/iot-serverless-websockets-react-boilerplate.git
+[submodule "front-end-guide"]
+	path = front-end-guide
+	url = https://github.com/voorhoede/front-end-guide.git
