@@ -112,3 +112,9 @@
 [submodule "react_basics"]
 	path = react_basics
 	url = https://github.com/ajayk800/react_basics.git
+[submodule "BBB/node-beagle-boot"]
+	path = BBB/node-beagle-boot
+	url = https://github.com/ravikp7/node-beagle-boot.git
+[submodule "BBB/BeagleBoot"]
+	path = BBB/BeagleBoot
+	url = https://github.com/ravikp7/BeagleBoot.git
