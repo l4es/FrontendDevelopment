@@ -139,3 +139,6 @@
 [submodule "front-end-guide"]
 	path = front-end-guide
 	url = https://github.com/voorhoede/front-end-guide.git
+[submodule "simple-react-full-stack"]
+	path = simple-react-full-stack
+	url = https://github.com/crsandeep/simple-react-full-stack.git
