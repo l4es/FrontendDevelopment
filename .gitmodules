@@ -142,3 +142,48 @@
 [submodule "simple-react-full-stack"]
 	path = simple-react-full-stack
 	url = https://github.com/crsandeep/simple-react-full-stack.git
+[submodule "RPi/daisyCam"]
+	path = RPi/daisyCam
+	url = https://github.com/WoodburyShortridge/daisyCam.git
+[submodule "stratbook"]
+	path = stratbook
+	url = https://github.com/vanDeurs/stratbook.git
+[submodule "RPi/Buzz"]
+	path = RPi/Buzz
+	url = https://github.com/pedrovgs/Buzz.git
+[submodule "react-webcam"]
+	path = react-webcam
+	url = https://github.com/mozmorris/react-webcam.git
+[submodule "react-desktop"]
+	path = react-desktop
+	url = https://github.com/gabrielbull/react-desktop.git
+[submodule "react-redux-realworld-example-app"]
+	path = react-redux-realworld-example-app
+	url = https://github.com/gothinkster/react-redux-realworld-example-app.git
+[submodule "react-patterns"]
+	path = react-patterns
+	url = https://github.com/larkintuckerllc/react-patterns.git
+[submodule "react-camera"]
+	path = react-camera
+	url = https://github.com/Miniplop/react-camera.git
+[submodule "webpacker-react-frontend"]
+	path = webpacker-react-frontend
+	url = https://github.com/gauravtiwari/webpacker-react-frontend.git
+[submodule "Books/reactjs-by-example"]
+	path = Books/reactjs-by-example
+	url = https://github.com/bigbinary/reactjs-by-example.git
+[submodule "reactjs-nodejs-rest-example"]
+	path = reactjs-nodejs-rest-example
+	url = https://github.com/hurkanyakay/reactjs-nodejs-rest-example.git
+[submodule "id-project"]
+	path = id-project
+	url = https://github.com/Industrial/id-project.git
+[submodule "StopWatchElectron"]
+	path = StopWatchElectron
+	url = https://github.com/FrancescoSaverioZuppichini/StopWatchElectron.git
+[submodule "Libraries/blueprint"]
+	path = Libraries/blueprint
+	url = https://github.com/palantir/blueprint.git
+[submodule "Libraries/HTML5-JavaScript-Gamepad-Controller-Library"]
+	path = Libraries/HTML5-JavaScript-Gamepad-Controller-Library
+	url = https://github.com/kallaspriit/HTML5-JavaScript-Gamepad-Controller-Library.git
