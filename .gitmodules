@@ -211,3 +211,12 @@
 [submodule "react-redux-starter-template"]
 	path = react-redux-starter-template
 	url = https://github.com/tarique93102/react-redux-starter-template.git
+[submodule "react-material-demo"]
+	path = react-material-demo
+	url = https://github.com/cartab/react-material-demo.git
+[submodule "react-demos"]
+	path = react-demos
+	url = https://github.com/ruanyf/react-demos.git
+[submodule "react-demo"]
+	path = react-demo
+	url = https://github.com/rpominov/react-demo.git
