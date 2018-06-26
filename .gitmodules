@@ -187,3 +187,12 @@
 [submodule "Libraries/HTML5-JavaScript-Gamepad-Controller-Library"]
 	path = Libraries/HTML5-JavaScript-Gamepad-Controller-Library
 	url = https://github.com/kallaspriit/HTML5-JavaScript-Gamepad-Controller-Library.git
+[submodule "Books/react-in-patterns"]
+	path = Books/react-in-patterns
+	url = https://github.com/krasimir/react-in-patterns.git
+[submodule "Books/advanced-react-patterns"]
+	path = Books/advanced-react-patterns
+	url = https://github.com/kentcdodds/advanced-react-patterns.git
+[submodule "Books/advanced-react-patterns-v2"]
+	path = Books/advanced-react-patterns-v2
+	url = https://github.com/kentcdodds/advanced-react-patterns-v2.git
