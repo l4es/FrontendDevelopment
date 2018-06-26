@@ -196,3 +196,18 @@
 [submodule "Books/advanced-react-patterns-v2"]
 	path = Books/advanced-react-patterns-v2
 	url = https://github.com/kentcdodds/advanced-react-patterns-v2.git
+[submodule "react-frontend-template"]
+	path = react-frontend-template
+	url = https://github.com/arjunmehta/react-frontend-template.git
+[submodule "react-templates"]
+	path = react-templates
+	url = https://github.com/wix/react-templates.git
+[submodule "react-app-template"]
+	path = react-app-template
+	url = https://github.com/Narzerus/react-app-template.git
+[submodule "ReactAdminPanel"]
+	path = ReactAdminPanel
+	url = https://github.com/KrunalLathiya/ReactAdminPanel.git
+[submodule "react-redux-starter-template"]
+	path = react-redux-starter-template
+	url = https://github.com/tarique93102/react-redux-starter-template.git
