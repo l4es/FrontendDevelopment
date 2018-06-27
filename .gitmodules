@@ -220,3 +220,18 @@
 [submodule "react-demo"]
 	path = react-demo
 	url = https://github.com/rpominov/react-demo.git
+[submodule "challenge-backbone-students"]
+	path = challenge-backbone-students
+	url = https://github.com/danmconrad/challenge-backbone-students.git
+[submodule "daylight.danmconrad.com"]
+	path = daylight.danmconrad.com
+	url = https://github.com/danmconrad/daylight.danmconrad.com.git
+[submodule "RPi/jeoparty"]
+	path = RPi/jeoparty
+	url = https://github.com/keithpops/jeoparty.git
+[submodule "judo-heroes"]
+	path = judo-heroes
+	url = https://github.com/lmammino/judo-heroes.git
+[submodule "judo-heroes-2"]
+	path = judo-heroes-2
+	url = https://github.com/lmammino/judo-heroes-2.git
