@@ -238,3 +238,21 @@
 [submodule "RPi/home-controll"]
 	path = RPi/home-controll
 	url = https://github.com/VolodymyrTymets/home-controll.git
+[submodule "gateway-frontend"]
+	path = gateway-frontend
+	url = https://github.com/openmotics/gateway-frontend.git
+[submodule "frontend-project-template"]
+	path = frontend-project-template
+	url = https://github.com/ianmcgregor/frontend-project-template.git
+[submodule "skeleton"]
+	path = skeleton
+	url = https://github.com/ginetta/skeleton.git
+[submodule "fe-skeleton"]
+	path = fe-skeleton
+	url = https://github.com/rehabstudio/fe-skeleton.git
+[submodule "front-end-skeleton"]
+	path = front-end-skeleton
+	url = https://github.com/nathanmarks/front-end-skeleton.git
+[submodule "frontend-skeleton"]
+	path = frontend-skeleton
+	url = https://github.com/django-stars/frontend-skeleton.git
