@@ -256,3 +256,6 @@
 [submodule "frontend-skeleton"]
 	path = frontend-skeleton
 	url = https://github.com/django-stars/frontend-skeleton.git
+[submodule "RPi/rpi-webapp-gpio"]
+	path = RPi/rpi-webapp-gpio
+	url = https://github.com/fatkahawai/rpi-webapp-gpio.git
