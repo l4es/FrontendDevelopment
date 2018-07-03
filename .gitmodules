@@ -259,3 +259,15 @@
 [submodule "RPi/rpi-webapp-gpio"]
 	path = RPi/rpi-webapp-gpio
 	url = https://github.com/fatkahawai/rpi-webapp-gpio.git
+[submodule "RPi/raspi-camera-nodejs"]
+	path = RPi/raspi-camera-nodejs
+	url = https://github.com/danielKugler/raspi-camera-nodejs.git
+[submodule "node-tutorial-for-frontend-devs"]
+	path = node-tutorial-for-frontend-devs
+	url = https://github.com/cwbuecheler/node-tutorial-for-frontend-devs.git
+[submodule "RPi/rpi-webrtc-streamer-frontend"]
+	path = RPi/rpi-webrtc-streamer-frontend
+	url = https://github.com/kclyu/rpi-webrtc-streamer-frontend.git
+[submodule "RPi/motioneye"]
+	path = RPi/motioneye
+	url = https://github.com/ccrisan/motioneye.git
