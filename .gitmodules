@@ -271,3 +271,12 @@
 [submodule "RPi/motioneye"]
 	path = RPi/motioneye
 	url = https://github.com/ccrisan/motioneye.git
+[submodule "react-darkroom"]
+	path = react-darkroom
+	url = https://github.com/MattMcFarland/react-darkroom.git
+[submodule "react-phoenix"]
+	path = react-phoenix
+	url = https://github.com/geolessel/react-phoenix.git
+[submodule "react-rock-paper-scissors"]
+	path = react-rock-paper-scissors
+	url = https://github.com/alexmngn/react-rock-paper-scissors.git
