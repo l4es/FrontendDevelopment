@@ -280,3 +280,33 @@
 [submodule "react-rock-paper-scissors"]
 	path = react-rock-paper-scissors
 	url = https://github.com/alexmngn/react-rock-paper-scissors.git
+[submodule "WebGL/hackathon-slicer"]
+	path = WebGL/hackathon-slicer
+	url = https://github.com/Formlabs/hackathon-slicer
+[submodule "WebGL/SensorDataWebGL"]
+	path = WebGL/SensorDataWebGL
+	url = https://github.com/NetBurner/SensorDataWebGL
+[submodule "WebGL/jeeliz/FaceFilter"]
+	path = WebGL/jeeliz/FaceFilter
+	url = https://github.com/jeeliz/jeelizFaceFilter
+[submodule "WebGL/jeeliz/Weboji"]
+	path = WebGL/jeeliz/Weboji
+	url = https://github.com/jeeliz/jeelizWeboji
+[submodule "WebGL/jeeliz/GlanceTracker"]
+	path = WebGL/jeeliz/GlanceTracker
+	url = https://github.com/jeeliz/jeelizGlanceTracker
+[submodule "WebGL/jeeliz/GlassesVTOWidget"]
+	path = WebGL/jeeliz/GlassesVTOWidget
+	url = https://github.com/jeeliz/jeelizGlassesVTOWidget
+[submodule "WebGL/jeeliz/AR"]
+	path = WebGL/jeeliz/AR
+	url = https://github.com/jeeliz/jeelizAR
+[submodule "WebGL/jeeliz/ExposureController"]
+	path = WebGL/jeeliz/ExposureController
+	url = https://github.com/jeeliz/jeelizExposureController
+[submodule "WebGL/jeeliz/Pupillometry"]
+	path = WebGL/jeeliz/Pupillometry
+	url = https://github.com/jeeliz/jeelizPupillometry
+[submodule "WebGL/webgl-experiments"]
+	path = WebGL/webgl-experiments
+	url = https://github.com/simplicitylab/webgl-experiments
